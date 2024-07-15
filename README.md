@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @colomoj
+- CompTIA CySA+, Security+ CCNA
 - 👀 I'm totally stoked about computer stuff, hacking into systems, jamming out to music, and just cruising through tech vibes, you know what I mean?
 - 🌱 I'm diving deep into API stuff, learning the ropes and figuring out how to surf those data waves! 
 - 📫 I’m looking to collaborate on computer stuff
