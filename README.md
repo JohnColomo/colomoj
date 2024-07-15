@@ -3,7 +3,7 @@
 - 🌱 I'm diving deep into API stuff, learning the ropes and figuring out how to surf those data waves! 
 - 💞 I’m looking to collaborate on computer stuff
 - 📫 
-- 😄 Pronouns: Badass and Cool guy
+
 - ⚡ Fun fact about me is that there are no fun facts
 
 <!---
