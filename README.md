@@ -2,7 +2,7 @@
 
 Howdy, I’m JC 
   
-Department of Defense (DoD) 8570 (IAT) Level II Certified
+<br>Department of Defense (DoD) 8570 (IAT) Level II Certified<br/> 
 <br>     CySA+     <br/>
 <br>   Security+   <br/>
 <br>      CCNA     <br/>
