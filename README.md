@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colomoj
--  CySA+ | Security+ | CCNA
+- DoD 8570 (IAT) Level II | CySA+ | Security+ | CCNA
   
-- 👀 I'm totally stoked about computer stuff, hacking into systems, jamming out to music, and just cruising through tech vibes, you know what I mean?
+- 👀 I'm really excited about all things tech—whether it's exploring computer systems, diving into cybersecurity, or enjoying some great music while riding the waves of innovation. Can ya dig?
 - 🌱 What did the API say to the developer? "You complete me... with your documentation!" 
 - 📫 Let's join forces
   
