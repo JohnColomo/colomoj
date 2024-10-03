@@ -1,4 +1,5 @@
- 👋 Hi, I’m JC
+ Howdy, I’m JC ![image](https://github.com/user-attachments/assets/c7c21212-873a-4a52-962f-5fb6fb7939d0)
+
   
  DoD 8570 (IAT) Level II     |     CySA+     |     Security+     |     CCNA     |
 
