@@ -3,9 +3,9 @@
 Howdy, I’m JC 
   
 Department of Defense (DoD) 8570 (IAT) Level II Certified
-<br>|     CySA+     |<br/>
-|   Security+   |
-|      CCNA     |
+<br>     CySA+     <br/>
+<br>   Security+   <br/>
+<br>      CCNA     <br/>
 
 Really excited about all things tech—whether it's exploring computer systems, diving into cybersecurity, or enjoying some great music while riding the waves of innovation. Can ya dig?
 
