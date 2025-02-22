@@ -15,7 +15,7 @@ JC here
 It's no just tech. <br>It’s the thrill of the hunt for me.
 
 <br>SMBv1, 
-PrintNightmare, BlueKeep, and the guy who opens and clicks in all emails...
+PrintNightmare, BlueKeep, or the guy who opens and clicks in all emails...
 
 <br>I will find you and when i do I'll squash you like the bug you are
 
