@@ -7,7 +7,7 @@ JC here
 <br>      CCNA     <br/>
 
 
-**Obsessed (in a healthy way) with hacking**—tearing apart systems, finding vulnerabilities, and pushing the limits of cybersecurity.  
+**Obsessed with hacking [in a healthy way]**—tearing apart systems, finding vulnerabilities, and pushing the limits of cybersecurity.  
 Every exploit, every cracked hash, every bypass fuels the fire.  
 This isn’t just tech—it’s the thrill of the hunt.
 <br>SMBv1, 
