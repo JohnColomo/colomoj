@@ -6,12 +6,11 @@ Howdy, I’m JC
 <br>   Security+   <br/>
 <br>      CCNA     <br/>
 
-Really excited about all things tech—whether it's exploring computer systems, diving into cybersecurity, or enjoying some great music while riding the waves of innovation. Can ya dig?
 
-What did the API say to the developer? "You complete me... with your documentation!" 
+**Obsessed with hacking**—tearing apart systems, finding vulnerabilities, and pushing the limits of cybersecurity.  
+Every exploit, every cracked hash, every bypass fuels the fire.  
+This isn’t just tech—it’s the thrill of the hunt.
 
-Let's join forces
-  
 
 <!---
 colomoj/colomoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
