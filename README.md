@@ -1,5 +1,4 @@
- ![image](https://github.com/user-attachments/assets/c7c21212-873a-4a52-962f-5fb6fb7939d0)
-
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 Howdy, I’m JC 
   
 <br>Department of Defense (DoD) 8570 (IAT) Level II Certified<br/> 
