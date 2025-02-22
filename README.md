@@ -8,7 +8,8 @@ JC here
 
 
 **Obsessed with hacking [in a healthy way]**—<br>tearing apart systems and processes, finding vulnerabilities, and pushing the limits of cybersecurity.  
-Every exploit, every cracked hash, every bypass fuels the fire.  
+
+<br>Every exploit, every cracked hash, every bypass fuels the fire.  
 
 
 It's no just tech. <br>It’s the thrill of the hunt.
