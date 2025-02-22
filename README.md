@@ -10,7 +10,8 @@ Howdy, I’m JC
 **Obsessed (in a healthy way) with hacking**—tearing apart systems, finding vulnerabilities, and pushing the limits of cybersecurity.  
 Every exploit, every cracked hash, every bypass fuels the fire.  
 This isn’t just tech—it’s the thrill of the hunt.
-
+SMBv1 
+PrintNightmare ill find you and when i do ill squash you like the bug you are
 
 <!---
 colomoj/colomoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
