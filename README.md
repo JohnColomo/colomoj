@@ -16,7 +16,7 @@ It's no just tech. <br>It’s the thrill of the hunt.
 <br>SMBv1, 
 PrintNightmare, BlueKeep, and the guy who opens and clicks in all emails...
 
-<br>I'll find you and when i do ill squash you like the bug you are
+<br>I will find you and when i do I'll squash you like the bug you are
 
 <img
 src="https://media2.giphy.com/media/YRVP7mapl24G6RNkwJ/200.gif" width="400" height="400" />
