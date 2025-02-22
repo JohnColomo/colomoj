@@ -12,7 +12,7 @@ JC here
 <br>Every exploit, every cracked hash, every bypass fuels the fire.  
 
 
-It's no just tech. <br>It’s the thrill of the hunt.
+It's no just tech. <br>It’s the thrill of the hunt for me.
 
 <br>SMBv1, 
 PrintNightmare, BlueKeep, and the guy who opens and clicks in all emails...
