@@ -13,8 +13,7 @@ This isn’t just tech—it’s the thrill of the hunt.
 <br>SMBv1, 
 PrintNightmare, BlueKeep, the guy who opens and clicks in all emails<br>I'll find you and when i do ill squash you like the bug you are
 
-
-![myfile](https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif
+![Cat 3](https://media2.giphy.com/media/YRVP7mapl24G6RNkwJ/200.gif)
 
 <!---
 colomoj/colomoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
