@@ -9,6 +9,8 @@ JC here
 
 **Obsessed with hacking [in a healthy way]**—<br>tearing apart systems and processes, finding vulnerabilities, and pushing the limits of cybersecurity.  
 Every exploit, every cracked hash, every bypass fuels the fire.  
+
+
 This isn’t just tech—it’s the thrill of the hunt.
 <br>SMBv1, 
 PrintNightmare, BlueKeep, the guy who opens and clicks in all emails<br>I'll find you and when i do ill squash you like the bug you are
