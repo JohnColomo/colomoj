@@ -7,7 +7,7 @@ Howdy, I’m JC
 <br>      CCNA     <br/>
 
 
-**Obsessed with hacking**—tearing apart systems, finding vulnerabilities, and pushing the limits of cybersecurity.  
+**Obsessed (in a healthy way) with hacking**—tearing apart systems, finding vulnerabilities, and pushing the limits of cybersecurity.  
 Every exploit, every cracked hash, every bypass fuels the fire.  
 This isn’t just tech—it’s the thrill of the hunt.
 
