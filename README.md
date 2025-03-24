@@ -1,4 +1,4 @@
-JC here
+Hi there, JC here
   
 <br>Department of Defense (DoD) 8570 (IAT) Level II Certified<br/> 
 <br>     CySA+     <br/>
