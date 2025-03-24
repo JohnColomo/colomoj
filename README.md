@@ -1,18 +1,6 @@
-Hi there, JC here
-  
-<br>Department of Defense (DoD) 8570 (IAT) Level II Certified<br/> 
-<br>     CySA+     <br/>
-<br>   Security+   <br/>
-<br>      CCNA     <br/>
-
-
-**Obsessed with hacking [in a healthy way]**—<br>tearing apart systems and processes, finding vulnerabilities, and pushing the limits of cybersecurity.  
-
-<br>Every exploit, every cracked hash, every bypass fuels the fire.  
-
-
-It's no just tech. <br>It’s the thrill of the hunt for me.
-
+Hello, I’m **Johnny Colomo**. I’m certified in **DoD 8570 Level II** and hold several industry-recognized certifications, including **CCNA**, **CompTIA Security+**, and **CompTIA CySA+**. These qualifications highlight my expertise in cybersecurity and make me well-suited for roles across various industries, including government and private sectors, such as my experience at **Panasonic** specializing in **In-Flight Entertainment (IFE)**.<br>
+<br>
+![Safran Group Airbus GIF](https://media.giphy.com/media/A4cn8qqkneIJpzyzB9/giphy.gif)
 
 
 <!---
