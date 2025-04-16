@@ -72,9 +72,9 @@ Each setup changes the threat landscape, and I tailor my approach accordingly.
 
 I use tools like:
 
-- `tcpdump` and **Wireshark** to analyze network traffic down to the packet
-- **EDR platforms**, with integrated **threat intel feeds**
-- **SIEMs**, which I configure and tune
+- `tcpdump` and `Wireshark` to analyze network traffic down to the packet
+- **EDR platforms**, `SentinelOne` `CrowdStrike`with integrated **threat intel feeds**
+- **SIEMs**, `Rapid7` `Splunk` and `The ELK Stack` which I have configured and tuned at a few different places.
 - **SOAR tools**, to automate response workflows
 
 **Email forensics**:
